@@ -63,11 +63,10 @@ Decision Making:
 - Imutils → Image processing utilities.
 - Threading → Ensures smooth execution of the decision-making process.
 
-
 ## Acknowledgments
 This project was created for **educational purposes** by learning from various online resources such as **YouTube and Google**.  
-- Special thanks to **Code With Harry** for teaching this project and various python modules.
-- Video clips taken from "Direct Hit! Some of the best run-outs in recent years"(https://youtu.be/zmiVWO7ab88?si=VsXEeDHXmTNoae3J) for educational and demonstration purpose only, credited to its original creator..
+- Special thanks to **[Code With Harry](https://www.youtube.com/@CodeWithHarry)** for teaching this project and various Python modules.  
+- Video clips taken from **["Direct Hit! Some of the best run-outs in recent years"](https://youtu.be/zmiVWO7ab88?si=VsXEeDHXmTNoae3J)** for educational and demonstration purposes only, credited to its original creator.  
 
 ## Disclaimer 
 This project is a **learning-based implementation** and is **not entirely an original idea**.  
